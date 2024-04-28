@@ -1,7 +1,7 @@
-import 'package:My.solution/domain/entities/response/part.dart';
-import 'package:My.solution/domain/entities/response/content.dart';
-import 'package:My.solution/domain/repository/api_repository.dart';
-import 'package:My.solution/presentation/cubit/chat/chat_state.dart';
+import 'package:chat_ai/domain/entities/response/part.dart';
+import 'package:chat_ai/domain/entities/response/content.dart';
+import 'package:chat_ai/domain/repository/api_repository.dart';
+import 'package:chat_ai/presentation/cubit/chat/chat_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class ChatCubit extends Cubit<ChatSuccessState> {
@@ -20,8 +20,6 @@ class ChatCubit extends Cubit<ChatSuccessState> {
     // Api call
     final response =
         await _apiRepository.getResponse(request: messages.reversed.toList());
-    print("Repsone-DATA-->${response.data!.toJson()}");
-    print("Repsone-ERRor--->${response.error}");
     messages.insert(
       0,
       Content(

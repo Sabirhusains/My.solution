@@ -1,5 +1,5 @@
-import 'package:My.solution/domain/entities/response/content.dart';
-import 'package:My.solution/domain/entities/response/safety_ratings.dart';
+import 'package:chat_ai/domain/entities/response/content.dart';
+import 'package:chat_ai/domain/entities/response/safety_ratings.dart';
 
 class Candidate {
   Content content;
@@ -14,15 +14,13 @@ class Candidate {
     required this.safetyRatings,
   });
 
-  factory Candidate.fromJson(Map<String, dynamic> json) {
-   return Candidate(
-      content: Content.fromJson(json["content"]),
-      finishReason: json["finishReason"],
-      index: json["index"],
-      safetyRatings: List<SafetyRating>.from(
-          json["safetyRatings"].map((x) => SafetyRating.fromJson(x))),
-    );
-  }
+  factory Candidate.fromJson(Map<String, dynamic> json) => Candidate(
+        content: Content.fromJson(json["content"]),
+        finishReason: json["finishReason"],
+        index: json["index"],
+        safetyRatings: List<SafetyRating>.from(
+            json["safetyRatings"].map((x) => SafetyRating.fromJson(x))),
+      );
 
   Map<String, dynamic> toJson() => {
         "content": content.toJson(),
