@@ -1,6 +1,6 @@
-import 'package:My.solution/splash_screen.dart';
+import 'package:chat_ai/splash_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:My.solution/locator.dart';
+import 'package:chat_ai/locator.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

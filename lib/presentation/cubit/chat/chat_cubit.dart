@@ -20,6 +20,8 @@ class ChatCubit extends Cubit<ChatSuccessState> {
     // Api call
     final response =
         await _apiRepository.getResponse(request: messages.reversed.toList());
+    print("Repsone-DATA-->${response.data!.toJson()}");
+    print("Repsone-ERRor--->${response.error}");
     messages.insert(
       0,
       Content(
