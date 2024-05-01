@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/Sabbirhussain/Flutter App/Chat-AI/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="/Users/Sabbirhussain/Flutter App/Chat-AI/build/app"
+    bootClassPath="/Users/tech440/Library/Android/sdk/platforms/android-34/android.jar:/Users/tech440/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
