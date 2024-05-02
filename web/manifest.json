@@ -1,6 +1,6 @@
 {
-    "name": "chat_ai",
-    "short_name": "chat_ai",
+    "name": "My.solution",
+    "short_name": "My.solution",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

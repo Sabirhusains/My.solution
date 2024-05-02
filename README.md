@@ -1,4 +1,4 @@
-# chat_ai
+# My.solution
 
 I'm excited to announce the launch of my newest creation: an AI chat app crafted with Flutter and empowered by the Gemini API! 💬✨
 

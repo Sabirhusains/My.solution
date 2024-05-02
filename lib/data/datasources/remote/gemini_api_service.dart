@@ -1,5 +1,5 @@
-import 'package:chat_ai/domain/entities/response/content.dart';
-import 'package:chat_ai/utils/constants/api_key.dart';
+import 'package:My.solution/domain/entities/response/content.dart';
+import 'package:My.solution/utils/constants/api_key.dart';
 import 'package:dio/dio.dart';
 
 class GeminiApiService {

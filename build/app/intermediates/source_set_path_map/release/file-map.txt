@@ -1,0 +1,14 @@
+com.example.chat_ai.app-main-0 /Users/Sabbirhussain/Flutter App/Chat-AI/android/app/src/main/res
+com.example.chat_ai.app-release-1 /Users/Sabbirhussain/Flutter App/Chat-AI/android/app/src/release/res
+com.example.chat_ai.app-pngs-2 /Users/Sabbirhussain/Flutter App/Chat-AI/build/app/generated/res/pngs/release
+com.example.chat_ai.app-resValues-3 /Users/Sabbirhussain/Flutter App/Chat-AI/build/app/generated/res/resValues/release
+com.example.chat_ai.app-rs-4 /Users/Sabbirhussain/Flutter App/Chat-AI/build/app/generated/res/rs/release
+com.example.chat_ai.app-mergeReleaseResources-5 /Users/Sabbirhussain/Flutter App/Chat-AI/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.chat_ai.app-mergeReleaseResources-6 /Users/Sabbirhussain/Flutter App/Chat-AI/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.chat_ai.app-merged_res-7 /Users/Sabbirhussain/Flutter App/Chat-AI/build/app/intermediates/merged_res/release
+com.example.chat_ai.app-packaged_res-8 /Users/Sabbirhussain/Flutter App/Chat-AI/build/path_provider_android/intermediates/packaged_res/release
+com.example.chat_ai.app-packaged_res-9 /Users/Sabbirhussain/Flutter App/Chat-AI/build/sqflite/intermediates/packaged_res/release
+com.example.chat_ai.app-jetified-window-1.0.0-beta04-10 /Users/tech440/.gradle/caches/transforms-3/48dc35b1bc0ec544110e4ca06a229b4a/transformed/jetified-window-1.0.0-beta04/res
+com.example.chat_ai.app-jetified-annotation-experimental-1.1.0-11 /Users/tech440/.gradle/caches/transforms-3/a4d98f16772d7f3ff10d8016086762f9/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.chat_ai.app-core-1.6.0-12 /Users/tech440/.gradle/caches/transforms-3/aa4cd24feaeab6e2ffb8f746586495ee/transformed/core-1.6.0/res
+com.example.chat_ai.app-jetified-window-java-1.0.0-beta04-13 /Users/tech440/.gradle/caches/transforms-3/b6227964c4df8659095845ef4b5b836b/transformed/jetified-window-java-1.0.0-beta04/res
