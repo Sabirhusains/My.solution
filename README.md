@@ -23,5 +23,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-
+![Alt text](assets/images/ss1.png?raw=true "My.solution chatBot")
 

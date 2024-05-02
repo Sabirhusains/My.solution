@@ -680,13 +680,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "chat_ai",
+      "name": "My.solution",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-05-01T05:03:19.076610Z",
+  "generated": "2024-05-02T06:18:05.977077Z",
   "generator": "pub",
   "generatorVersion": "3.5.0-82.0.dev",
   "flutterRoot": "file:///Users/tech440/FlutterDev/flutter",
