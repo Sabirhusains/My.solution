@@ -1,8 +1,8 @@
 # My.solution
 
-I'm excited to announce the launch of my newest creation: an AI chat app crafted with Flutter and empowered by the Gemini API! 💬✨
-
 This app allows users to engage in natural conversations with an AI chatbot, offering assistance, entertainment, and more. Whether you seek quick answers, friendly banter, or a dose of fun, this app delivers!
+
+I'm excited to announce the launch of my newest creation: an AI chat app crafted with Flutter and empowered by the Gemini API! 💬✨
 
 ## Getting Started
 
@@ -18,11 +18,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## For any queries and related work
-- [LinkedIn](https://www.linkedin.com/in/abdur-rehman-0713b8259/)
-- [Facebook](https://www.facebook.com/profile.php?id=100011038110069)
-- [UpWork](https://www.upwork.com/freelancers/~01852feeeab93cc0cb)
+- [LinkedIn](https://www.linkedin.com/in/sabirhusain-sheliya/)
+- [Facebook](https://www.facebook.com/sabirhusain.sheliya.3)
 
-![remove_the_background-removebg-preview](https://github.com/Abdurehman339/Chat-AI/assets/117111541/1da8f5eb-fb22-4f53-87b6-3b1dbef29010)
+
 
 
 
