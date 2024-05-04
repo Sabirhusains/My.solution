@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.chat_ai.app-mergeDebugResources-5:/values-af/values-af.xml",
+            "outputFile": "com.example.My.solution.app-mergeDebugResources-5:/values-af/values-af.xml",
             "map": [
                 {
                     "source": "/Users/tech440/.gradle/caches/transforms-3/aa4cd24feaeab6e2ffb8f746586495ee/transformed/core-1.6.0/res/values-af/values-af.xml",
