@@ -17,10 +17,13 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## For any queries and related work
-- [LinkedIn](https://www.linkedin.com/in/abdur-rehman-0713b8259/)
-- [Facebook](https://www.facebook.com/profile.php?id=100011038110069)
-- [UpWork](https://www.upwork.com/freelancers/~01852feeeab93cc0cb)
+[comment]: <> (## For any queries and related work)
+
+[comment]: <> (- [LinkedIn]&#40;https://www.linkedin.com/in/abdur-rehman-0713b8259/&#41;)
+
+[comment]: <> (- [Facebook]&#40;https://www.facebook.com/profile.php?id=100011038110069&#41;)
+
+[comment]: <> (- [UpWork]&#40;https://www.upwork.com/freelancers/~01852feeeab93cc0cb&#41;)
 
 ![remove_the_background-removebg-preview](https://github.com/Abdurehman339/Chat-AI/assets/117111541/1da8f5eb-fb22-4f53-87b6-3b1dbef29010)
 
