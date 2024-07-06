@@ -1,5 +1,6 @@
-import 'package:chat_ai/domain/entities/response/content.dart';
 import 'package:equatable/equatable.dart';
+
+import '../../../domain/entities/response/content.dart';
 
 class ChatSuccessState extends Equatable {
   final bool isLoading;

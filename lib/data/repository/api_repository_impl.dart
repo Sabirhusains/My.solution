@@ -1,9 +1,10 @@
-import 'package:chat_ai/data/datasources/remote/gemini_api_service.dart';
-import 'package:chat_ai/domain/entities/response/api_response.dart';
-import 'package:chat_ai/domain/entities/response/content.dart';
-import 'package:chat_ai/domain/repository/api_repository.dart';
-import 'package:chat_ai/utils/resources/data_state.dart';
 import 'package:dio/dio.dart';
+
+import '../../domain/entities/response/api_response.dart';
+import '../../domain/entities/response/content.dart';
+import '../../domain/repository/api_repository.dart';
+import '../../utils/resources/data_state.dart';
+import '../datasources/remote/gemini_api_service.dart';
 
 class ApiRepositoryImp implements ApiRepository {
   final GeminiApiService _geminiApiService;

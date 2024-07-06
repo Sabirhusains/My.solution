@@ -1,8 +1,9 @@
-import 'package:chat_ai/domain/entities/response/part.dart';
-import 'package:chat_ai/domain/entities/response/content.dart';
-import 'package:chat_ai/domain/repository/api_repository.dart';
-import 'package:chat_ai/presentation/cubit/chat/chat_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+
+import '../../../domain/entities/response/content.dart';
+import '../../../domain/entities/response/part.dart';
+import '../../../domain/repository/api_repository.dart';
+import 'chat_state.dart';
 
 class ChatCubit extends Cubit<ChatSuccessState> {
   final ApiRepository _apiRepository;

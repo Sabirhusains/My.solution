@@ -1,6 +1,9 @@
-import 'package:chat_ai/domain/entities/response/api_response.dart';
-import 'package:chat_ai/domain/entities/response/content.dart';
-import 'package:chat_ai/utils/resources/data_state.dart';
+
+
+
+import '../../utils/resources/data_state.dart';
+import '../entities/response/api_response.dart';
+import '../entities/response/content.dart';
 
 abstract class ApiRepository {
   Future<DataState<ApiResponse>> getResponse({

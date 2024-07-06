@@ -1,11 +1,11 @@
 import 'package:animated_splash_screen/animated_splash_screen.dart';
-import 'package:chat_ai/domain/repository/api_repository.dart';
-import 'package:chat_ai/locator.dart';
-import 'package:chat_ai/main.dart';
-import 'package:chat_ai/presentation/cubit/chat/chat_cubit.dart';
-import 'package:chat_ai/presentation/view/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+
+import 'domain/repository/api_repository.dart';
+import 'locator.dart';
+import 'presentation/cubit/chat/chat_cubit.dart';
+import 'presentation/view/home_screen.dart';
 
 class SpalshScreen extends StatefulWidget {
   const SpalshScreen({Key? key}) : super(key: key);

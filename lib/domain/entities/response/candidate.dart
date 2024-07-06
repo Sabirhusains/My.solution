@@ -1,5 +1,6 @@
-import 'package:chat_ai/domain/entities/response/content.dart';
-import 'package:chat_ai/domain/entities/response/safety_ratings.dart';
+
+import 'content.dart';
+import 'safety_ratings.dart';
 
 class Candidate {
   Content content;

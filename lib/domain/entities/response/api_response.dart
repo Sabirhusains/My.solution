@@ -1,4 +1,5 @@
-import 'package:chat_ai/domain/entities/response/candidate.dart';
+
+import 'candidate.dart';
 
 class ApiResponse {
   List<Candidate> candidates;
